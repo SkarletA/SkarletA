@@ -1,4 +1,4 @@
-<img align="center" width="1024" height="200" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="gif-code">
+<img align="center" width="100%" height="200" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="gif-code">
 <h1 align="center">Hi 👋, I'm Skarlet Araque</h1>
 <h3 align="center">A passionate frontend developer, I  love numbers, science and investment, I am a responsible, persevering person, with the ability to work in teams.</h3>
 
